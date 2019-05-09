@@ -1,6 +1,6 @@
 name: libjson2builtvalue
 description: Generates Dart built_value classes from given JSON. Based on https://github.com/charafau/json2builtvalue
-version: 0.2.0
+version: 0.2.1
 homepage: https://github.com/glacion/libjson2builtvalue
 author: Ahmetcan Guvendiren <ahm@glacion.com>
 
